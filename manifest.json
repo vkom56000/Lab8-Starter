@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "Lab8-Starter",
+    "short_name": "Venkata sai Komma",
+    "description": "Recipes List ",
+    "start_url": "./index.html",
+    "display": "fullscreen",
+    "background_color": "#A5D6A7",
+    "theme_color": "#388E3C",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
